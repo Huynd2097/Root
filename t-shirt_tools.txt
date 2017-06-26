@@ -1,1 +1,1 @@
-self_delete=false
+self_delete=true
